@@ -1,5 +1,5 @@
 # encoding: UTF-8
 
-require 'storage'
-run Storage.new
+require 'lib/s3_storage'
+run S3Storage::Storage.new
 

@@ -1,11 +1,13 @@
-s3_strage
+s3_storage
 =========
 
-for s3 strage
+for s3 storage
 
-## strage sinatra app
+## start sinatra app
 
-    rackup -I . -p 3001
+    rackup -I . -p 3000
+    or
+    unicorn -c unicorn.conf -I . -p 3000
 
 ## API
 ### GET

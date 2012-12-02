@@ -1,0 +1,17 @@
+production:
+  access_key_id: ''
+  secret_access_key: ''
+  s3_bucket_name: ''
+staging:
+  access_key_id: ''
+  secret_access_key: ''
+  s3_bucket_name: ''
+development:
+  access_key_id: ''
+  secret_access_key: ''
+  s3_bucket_name: ''
+test:
+  access_key_id: ''
+  secret_access_key: ''
+  s3_bucket_name: ''
+
